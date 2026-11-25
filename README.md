@@ -1,7 +1,6 @@
 # 🌱 ESP32 Tabanlı Akıllı Bitki Takip ve Sulama Sistemi
 
-> **T.C. Mehmet Akif Ersoy Üniversitesi** – Bucak Bilgisayar ve Bilişim Fakültesi, Yazılım Mühendisliği Bölümü
-> **Gömülü Sistemler Dersi Proje Raporu**
+
 
 ![Prototip](images/prototip.jpg)
 
